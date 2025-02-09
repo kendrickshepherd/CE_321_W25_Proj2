@@ -23,3 +23,9 @@ jobs:
       - name: Test method of joints with unittest
         run: |
           python3 Method_of_Joints_Tests.py
+      - name: Test Structure Operations with unittest
+        run: |
+          python3 Structure_Operations_Test.py
+      - name: Test Complete Geometry Operations with unittest
+        run: |
+          python3 Geometry_Operations_Tests_Full.py
