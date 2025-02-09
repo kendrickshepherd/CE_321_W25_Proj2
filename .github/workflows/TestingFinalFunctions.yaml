@@ -1,4 +1,4 @@
-name: ci-python-unittest
+name: ci-python-project2-test
 
 on:
   push
